@@ -1,0 +1,7 @@
+Build a user authentication system with:
+- User registration and login
+- Password reset functionality
+- JWT token-based authentication
+- Role-based access control
+- Session management
+EOF

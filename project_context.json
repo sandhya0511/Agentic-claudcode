@@ -1,0 +1,10 @@
+{
+  "project_name": "AuthService",
+  "cloud_provider": "aws",
+  "deployment_type": "kubernetes",
+  "ci_cd_platform": "github-actions",
+  "constraints": {
+    "timeline": "2 months",
+    "team_size": 3
+  }
+}
